@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# audio_merge_pipeline
-Merge multiple asr and tts datasets into fixed length audio dataset as well as code mix option.
-=======
 # README: Dataset Filtering and Merging Script
 
 ## Overview
@@ -130,4 +126,3 @@ The merged CSV combines all individual datasets, retaining the same columns.
 
 
 
->>>>>>> master

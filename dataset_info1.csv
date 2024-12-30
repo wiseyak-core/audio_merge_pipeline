@@ -1,0 +1,6 @@
+ID,NAME,Audio_path,CSV File path,Type,Total Size,Description
+1,Banking_Keywords,"/home/bumblebee/wiseyak_backup/aakriti/TTS/Banking/banking_audio","/home/bumblebee/wiseyak_backup/aakriti/TTS/Banking/banking_final_sentences.csv",TTS,12,"Unique Banking Banking_Keywords"
+2,Census_files,"/home/bumblebee/wiseyak_backup/aakriti/TTS/Census_files/Census_sentences_audio","/home/bumblebee/wiseyak_backup/aakriti/TTS/Census_files/census_sentences.csv",TTS,89,"names of places and location of nepal"
+3,Global_data,"/home/bumblebee/wiseyak_backup/aakriti/TTS/Global_data/GLOBAL_DATA_audio","/home/bumblebee/wiseyak_backup/aakriti/TTS/Global_data/GLOBAL_DATA_final_sentence.csv",TTS,67,"data given by Neelam"
+4,Voting,"/home/bumblebee/wiseyak_backup/aakriti/TTS/Voting/Voting_audio","/home/bumblebee/wiseyak_backup/aakriti/TTS/Voting/voting.csv",TTS,79,"district  names of voting center of nepal "
+5,Names,"/home/bumblebee/wiseyak_backup/aakriti/TTS/sentences_audio","/home/bumblebee/wiseyak_backup/aakriti/TTS/final_sentence.json",TTS,125390,"nepali names in nepal extracted from kaggle"
